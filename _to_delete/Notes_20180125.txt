@@ -1,0 +1,1 @@
+https://forum.antergos.com/topic/9011/virtualbox-guest-additions-vagrant-cannot-mount-with-vboxfs
